@@ -278,10 +278,7 @@ This roadmap is released under the [MIT License](LICENSE). *(You need to create 
 
 ## ✨  Let's Connect!
 
-*   [Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME) *(Replace with your actual GitHub profile link)*
-*   [Your Twitter (Optional)](https://twitter.com/YOUR_TWITTER_USERNAME) *(Replace with your Twitter link or remove this line)*
-*   [Your LinkedIn (Optional)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) *(Replace with your LinkedIn link or remove this line)*
-*   [Other social media/portfolio links if you want to share] *(Add any other links here or remove this line)*
+*   [Your GitHub Profile](https://github.com/newloverofcode2025))
 
 ---
 
